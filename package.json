@@ -1,6 +1,6 @@
 {
-  "name": "NodeSizer",
-  "description": "NodeSizer - Image Resizer proxy",
+  "name": "ImgSizeReshaper",
+  "description": "An image resizing proxy service written in nodejs",
   "version": "1.3.3",
   "user" : "chrisjenx",
   "private": true,
