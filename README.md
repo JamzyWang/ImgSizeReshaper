@@ -13,4 +13,4 @@ Currently supportsbold denotes required.
 
 An example request looks like:
 
->  http://localhost:8080/convert?size=240&source=http://yoursite.com/media/yourimage.png
+“http://localhost:8080/convert?size=240&source=http://yoursite.com/media/yourimage.png”
